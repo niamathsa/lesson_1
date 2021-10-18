@@ -1,3 +1,4 @@
+import hoteldetails from "./components/hoteldetails";
 function App() {
   return (
     <div>
